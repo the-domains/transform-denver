@@ -1,7 +1,7 @@
 name: Transform Denver
 favicon: null
-layout_spectrum: 0.416145040653646
-typography_spectrum: 0.33879582583904266
+layout_spectrum: 0.50287
+typography_spectrum: 0.87069
 title: Transform Denver
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.8420289913192391
+    - '#000000'
+    - '#343c3e'
+    - '#eff9fb'
+    - '#748283'
+    - '#71efee'
+  brandStrength: 0.875
   lightness: 0.43111709179356694
-  saturation: 0.8450876767747104
+  saturation: 0.875
   rhythmicContrast: 0.22162158973515034
 purpose: []
