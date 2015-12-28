@@ -1,6 +1,6 @@
 name: Transform Denver
 favicon: null
-layout_spectrum: 0.50287
+layout_spectrum: 0.88026
 typography_spectrum: 0.87069
 title: Transform Denver
 cta:
@@ -24,6 +24,6 @@ color:
     - '#71efee'
   brandStrength: 0.1875
   lightness: 0.43111709179356694
-  saturation: 0.875
+  saturation: 0.75
   rhythmicContrast: 0.22162158973515034
 purpose: []
