@@ -1,29 +1,41 @@
-name: Transform Denver
-favicon: null
-layout_spectrum: 0.88026
-typography_spectrum: 0.87069
 title: Transform Denver
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.75
+  brandStrength: 0.1875
+  rhythmicContrast: 0.2216215897351503
   brandColors:
     - '#000000'
     - '#343c3e'
     - '#eff9fb'
     - '#748283'
     - '#71efee'
-  brandStrength: 0.1875
-  lightness: 0.43111709179356694
-  saturation: 0.75
-  rhythmicContrast: 0.22162158973515034
-purpose: []
+  lightness: 0.4311170917935669
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Transform Denver
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.87069
+layout_spectrum: 0.6738351
